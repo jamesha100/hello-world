@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi All,
+
+My name is James and I live in Cheltenham, UK.
